@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+* {
+    padding:0px;
+    margin:0px;
+    font-family:"Quicksand", sans-serif;
+}
+html { 
+    background: url(back.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.list {
+    padding-top: 4%;
+
+}
+ul {
+
+}
+li {
+    list-style: none;
+    font-size: 40px;
+    color:White;
+    padding:10px 0px 10px 0px;
+}
